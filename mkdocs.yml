@@ -1,0 +1,9 @@
+site_name: Dokumentation Max
+nav:
+  - index.md
+theme: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
